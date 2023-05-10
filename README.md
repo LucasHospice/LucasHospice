@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Je m'appelle Lucas Hospice, j'ai actuellement 20 ans et je suis en deuxième année de bachelor informatique à Lyon Ynov Campus.<br>Vous trouverez ci-dessous diverses informations sur moi ainsi que tous mes projets "sortables" en cliquant [ici](https://github.com/Mon-Portfolio).</p>
+<p align="left">Je m'appelle Lucas Hospice, j'ai actuellement 20 ans et je suis en deuxième année de bachelor informatique à Lyon Ynov Campus.<br>Vous trouverez ci-dessous diverses informations sur moi ainsi que tous mes projets "sortables" en cliquant <a href="https://github.com/Mon-Portfolio">ici</a>.</p>
 
 ###
 
